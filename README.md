@@ -1,6 +1,6 @@
-# Hi there, I'm Aqeeb Ur Rahman 👋
+# Aqeeb Ur Rahman 
 
-### 🚀 Autonomous Machine Learning Engineer & Robotics Enthusiast
+###  Autonomous Machine Learning Engineer & Robotics Enthusiast
 I am a passionate Artificial Intelligence undergraduate student (6th Semester) at Shifa Tameer-e-Millat University (STMU), Islamabad. I specialize in building autonomous AI agents, computer vision systems, and programming embedded robotics systems. 
 
 ---
