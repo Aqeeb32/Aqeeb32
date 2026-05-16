@@ -1,151 +1,49 @@
-If you still want to add it manually, do this:
-Find your install folder, usually something like:
-C:\Users\YourName\anaconda3
+# Hi there, I'm Aqeeb Ur Rahman 👋
 
-or
-C:\anaconda3
+### 🚀 Autonomous Machine Learning Engineer & Robotics Enthusiast
+I am a passionate Artificial Intelligence undergraduate student (6th Semester) at Shifa Tameer-e-Millat University (STMU), Islamabad. I specialize in building autonomous AI agents, computer vision systems, and programming embedded robotics systems. 
 
-Anaconda recommends an install path without spaces, such as C:\anaconda.
-Open:
-Start → Edit the system environment variables → Environment Variables
-Under User variables or System variables, select Path → Edit → New
-Add these paths one by one:
-C:\Users\YourName\anaconda3
-C:\Users\YourName\anaconda3\Scripts
-C:\Users\YourName\anaconda3\Library\bin
-Click OK on all windows, then close and reopen Command Prompt / PowerShell.
- 
-# Hi, I'm Sultan Haider 👋
- 
-## About Me
-
-I am an MS Data Science student at FAST University, Pakistan, with a strong interest in **Natural Language Processing, Artificial Intelligence, Data Analysis, and Machine Learning**. I enjoy building practical projects that solve real-world problems using data-driven approaches.
- 
-## Education
-
-### FAST National University of Computer & Emerging Sciences, Pakistan
-
-**MS in Data Science**  
-
-2023 – Present
- 
-### Virtual University of Pakistan
-
-**BS in Computer Science**  
-
-2018 – 2023
- 
-## Skills
- 
-### Programming Languages
-
-- Python
-
-- R
-
-- SQL
-
-- C++
- 
-### Data Analysis & Visualization
-
-- Pandas
-
-- NumPy
-
-- Matplotlib
-
-- Seaborn
-
-- Power BI
-
-- IBM Cognos
- 
-### Machine Learning & AI
-
-- Scikit-learn
-
-- PyTorch
-
-- TensorFlow
-
-- NLP
-
-- Computer Vision
- 
-### Tools & Technologies
-
-- Git & GitHub
-
-- Jupyter Notebook
-
-- Google Colab
-
-- Streamlit
-
-- MySQL
-
-- Hadoop
- 
-## Projects
- 
-### 1. Urdu Question Answering System
-
-Developed an AI-based system that answers questions from Urdu books and documents using NLP and retrieval-based techniques.
- 
-### 2. PakWheels Used Bikes Data Scraper
-
-Built a web scraping project to collect and analyze used bike listing data, including price, model, mileage, and location.
- 
-### 3. Global Black Money Data Analysis
-
-Performed data cleaning, analysis, and visualization on the global black money dataset to uncover useful insights.
- 
-### 4. House Price Prediction
-
-Created a machine learning model to predict house prices based on different property features.
- 
-### 5. Mobile Product Data Analysis System
-
-Worked on scraping mobile product data from Daraz.pk, processing it, storing it in MySQL, and visualizing results with Streamlit and Plotly.
- 
-## Research Interests
-
-- Natural Language Processing
-
-- Urdu Language Processing
-
-- Artificial Intelligence
-
-- Data Science
-
-- Machine Learning
-
-- Image Processing
- 
-## Experience
-
-- NLP Lab Instructor
-
-- Teaching experience in computer and robotics subjects
-
-- Administration experience in educational institutions
- 
-## GitHub Stats
-
-![Sultan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
- 
-## Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
- 
-## Connect With Me
-
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-linkedin-id)
-
-- **Email:** your-email@example.com
- 
 ---
 
-⭐ *Thank you for visiting my GitHub profile!*
- 
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **AI & Machine Learning** | Python, LangChain, ReAct Framework, Scikit-Learn, TensorFlow, NLTK, Explainable AI |
+| **Computer Vision & Deep Learning**| ANNs, U-Net Architecture (Sketch-to-Image Synthesis) |
+| **Robotics & Embedded Systems** | Arduino, IR Sensors, QTR-8C, Motor Controllers (Sumo, Line Follower, Omni-wheel Robots) |
+| **Web & Software Development** | React, PHP, MySQL, Decoupled Architectures |
+| **Development Tools** | VS Code, Miniconda, Git & GitHub, LaTeX |
+
+---
+
+### 💻 Key Projects
+
+
+* **Authentic & Explainable AI Agent**
+  * Built an autonomous reasoning agent using the ReAct framework and LangChain that retrieves data and provides verifiable, step-by-step reasoning.
+* **Robomart (E-Commerce Platform)**
+  * Developed a decoupled full-stack web application using React and PHP specifically for purchasing robotics components.
+* **Sketch-to-Image Synthesis**
+  * Implemented an Artificial Neural Network with U-Net architecture and skip connections to transform hand-drawn sketches into realistic images.
+
+---
+
+### 🏆 Leadership & Extra-Curriculars
+* **Team Lead @ NaSCon '25:** Led the team in the Roborace competition.
+* **Sports Council Leader @ STMU:** Leading FoC sports Council at Shifa tameer e millat university islamabad .
+* **Organizer:** Active organizer of university computing trips, competitive gaming events, and sports board initiatives.
+
+---
+
+### 📈 GitHub Stats
+
+![Aqeeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aqeeb32&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aqeeb32&layout=compact&theme=dark)
+
+---
+
+### 🤝 Connect with Me
+* **LinkedIn:** [linkedin.com/in/aqeeburrahman](https://linkedin.com) 
+* **Kaggle:** [kaggle.com/aqeeburrahman](https://www.kaggle.com/aqeeburrahman)
+* **Email:** bsai-23f-0032@stmu.edu.pk
