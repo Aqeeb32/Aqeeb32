@@ -1,49 +1,36 @@
-# Aqeeb Ur Rahman 
+# Hi there, I'm Aqeeb Ur Rahman 
 
-###  Autonomous Machine Learning Engineer & Robotics Enthusiast
-I am a passionate Artificial Intelligence undergraduate student (6th Semester) at Shifa Tameer-e-Millat University (STMU), Islamabad. I specialize in building autonomous AI agents, computer vision systems, and programming embedded robotics systems. 
+I am a passionate **Artificial Intelligence** student and developer, specializing in Computer Vision, Agentic Workflows, and Deep Learning. I enjoy building intelligent systems, autonomous agents, and robotics projects.
 
----
+## 🎓 About Me
+- 📚 Pursuing a **B.S. in Artificial Intelligence** at Shifa Tameer-e-Millat University (STMU), Islamabad.
+- 💻 Enrolled in the **Huawei Certified Training Program** at Corvit Digital.
+- 🌟 Completed coursework in the **Aspire Leaders Program**.
+- 💡 Passionate about the intersection of AI, explainability (XAI), and autonomous Meta-Agents.
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Skills
+- **Languages:** Python, C++, Java
+- **Web & Backend:** React, FastAPI, Chainlit
+- **AI/ML & Vision:** Deep Learning, Computer Vision, YOLOv8, GANs (Pix2Pix), Llama-3, LangChain, ReAct Framework
+- **Robotics:** Omni-wheel robots, Arduino, Sumo robots, Line followers
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **AI & Machine Learning** | Python, LangChain, ReAct Framework, Scikit-Learn, TensorFlow, NLTK, Explainable AI |
-| **Computer Vision & Deep Learning**| ANNs, U-Net Architecture (Sketch-to-Image Synthesis) |
-| **Robotics & Embedded Systems** | Arduino, IR Sensors, QTR-8C, Motor Controllers (Sumo, Line Follower, Omni-wheel Robots) |
-| **Web & Software Development** | React, PHP, MySQL, Decoupled Architectures |
-| **Development Tools** | VS Code, Miniconda, Git & GitHub, LaTeX |
+## 🚀 Featured Projects
+- **OmniScient (Final Year Project):** An autonomous machine learning engineering workspace system and AI data science meta-agent.
+- **Live Aerial Disaster Agent:** A real-time computer vision analysis system utilizing YOLOv8 for disaster assessment.
+- **Explainable AI Agent:** Built utilizing Llama-3, LangChain, and the ReAct framework for Knowledge Representation & Reasoning.
+- **Sketch-to-Image Translation:** An academic project implemented using Conditional GANs with a Pix2Pix architecture.
 
----
+## 🏆 Leadership & Extracurriculars
+I actively contribute to campus life and technological innovation through various leadership roles:
+- **Technical Head**, Shifa Robotics Society
+- **Vice President**, AI Innovation Society
+- **Cultural Management Head**, Virsa Society
+- **Vice President**, Faculty of Computing Sports Council
 
-### 💻 Key Projects
-
-
-* **Authentic & Explainable AI Agent**
-  * Built an autonomous reasoning agent using the ReAct framework and LangChain that retrieves data and provides verifiable, step-by-step reasoning.
-* **Robomart (E-Commerce Platform)**
-  * Developed a decoupled full-stack web application using React and PHP specifically for purchasing robotics components.
-* **Sketch-to-Image Synthesis**
-  * Implemented an Artificial Neural Network with U-Net architecture and skip connections to transform hand-drawn sketches into realistic images.
-
----
-
-### 🏆 Leadership & Extra-Curriculars
-* **Team Lead @ NaSCon '25:** Led the team in the Roborace competition.
-* **Sports Council Leader @ STMU:** Leading FoC sports Council at Shifa tameer e millat university islamabad .
-* **Organizer:** Active organizer of university computing trips, competitive gaming events, and sports board initiatives.
+## 📫 Let's Connect!
+- **Email:** [bsai-23f-0032@stmu.edu.pk](mailto:bsai-23f-0032@stmu.edu.pk)
+- **LinkedIn:** [linkedin.com/in/aqeeburrahman](https://www.linkedin.com/in/aqeeburrahman)
+- **Kaggle:** [kaggle.com/aqeeburrahman](https://www.kaggle.com/aqeeburrahman)
 
 ---
-
-### 📈 GitHub Stats
-
-![Aqeeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aqeeb32&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aqeeb32&layout=compact&theme=dark)
-
----
-
-### 🤝 Connect with Me
-* **LinkedIn:** [linkedin.com/in/aqeeburrahman](https://linkedin.com) 
-* **Kaggle:** [kaggle.com/aqeeburrahman](https://www.kaggle.com/aqeeburrahman)
-* **Email:** bsai-23f-0032@stmu.edu.pk
+⭐️ *Thanks for visiting my profile!*
