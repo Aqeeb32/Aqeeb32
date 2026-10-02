@@ -1,6 +1,6 @@
-# Hi there, I'm Aqeeb Ur Rahman 
+# Hi, I'm Aqeeb Ur Rahman 
 
-I am a passionate **Artificial Intelligence** student and developer, specializing in Computer Vision, Agentic Workflows, and Deep Learning. I enjoy building intelligent systems, autonomous agents, and robotics projects.
+I am a passionate **Artificial Intelligence** final year student and developer, specializing in Computer Vision, Agentic Workflows, and Deep Learning. I enjoy building intelligent systems, autonomous agents, and robotics projects.
 
 ## 🎓 About Me
 - 📚 Pursuing a **B.S. in Artificial Intelligence** at Shifa Tameer-e-Millat University (STMU), Islamabad.
